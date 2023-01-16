@@ -5,21 +5,21 @@ After refactoring and editing the code, try to make the VBA run more efficiently
 
  In 2017: 
    * The code took 0.4420166 seconds for run it. 
-   ![fig](https://github.com/violetqq0221/Credit_Risk_Analysis_2/blob/main/ClusterCentroids.PNG)
+   ![fig](https://github.com/violetqq0221/Module-2_stock-analysis/blob/main/2017_0.4420166%20sec.PNG)
 
    * only TERP had negative return rate, others are positive. DQ, ENPH, FSLR and SEDG had over 100% return rate. 
  
- ![fig](https://github.com/violetqq0221/Credit_Risk_Analysis_2/blob/main/ClusterCentroids.PNG)
+ ![fig](https://github.com/violetqq0221/Module-2_stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
  In 2018: 
     * The code took 0.4329883 seconds for run it.
- ![fig](https://github.com/violetqq0221/Credit_Risk_Analysis_2/blob/main/ClusterCentroids.PNG)
+ ![fig](https://github.com/violetqq0221/Module-2_stock-analysis/blob/main/2018_0.4379883.PNG)
 
     * only ENPH and RUN have postive return rate
- ![fig](https://github.com/violetqq0221/Credit_Risk_Analysis_2/blob/main/ClusterCentroids.PNG)
+ ![fig](https://github.com/violetqq0221/Module-2_stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
  
  * code for Credit_Risk
- ![fig](https://github.com/violetqq0221/Credit_Risk_Analysis_2/blob/main/ClusterCentroids.PNG)
+ ![fig](https://github.com/violetqq0221/Module-2_stock-analysis/blob/main/code.PNG)
  
 
 # summary
